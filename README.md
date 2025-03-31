@@ -1,11 +1,11 @@
-Add Tasks: Users can create tasks by entering the task name, description, and selecting a specific time.
+Set Alarm: Users can set alarms using a simple time picker in 12-hour format with AM/PM.
 
-View Tasks: A clear list displays all pending and completed tasks.
+Manage Alarms: View a list of all set alarms, edit or delete alarms as needed.
 
-Edit Tasks: Users can modify task details such as name, description, and time.
+Toggle Alarm On/Off: Quickly enable or disable alarms using a switch.
 
-Delete Tasks: Unnecessary or completed tasks can be deleted.
+Alarm Notifications: Receive notifications when the alarm goes off.
 
-Mark as Completed: Users can mark tasks as done, which will be reflected in the task list.
+Snooze and Dismiss: Users can snooze or dismiss alarms from the notification.
 
-SQLite Database Storage: Tasks are stored in an SQLite database for offline accessibility.
+Vibrant UI: Enhanced UI with material design components for a better user experience.
